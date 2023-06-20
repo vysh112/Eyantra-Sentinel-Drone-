@@ -1,2 +1,2 @@
-# Eyantra-Sentinel-Drone-
-Eyantra Sentinel Drone Challenge repository! Development of an autonomous drone for surveillance and security. Intelligent algorithms for object detection, tracking, obstacle avoidance, and path planning.
+# Sentinel Drone
+ROS package for eYRC 2022-23 Sentinel Drone Theme
